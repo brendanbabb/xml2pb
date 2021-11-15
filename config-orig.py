@@ -1,12 +1,12 @@
 # The URL hosting the muni stopdepartures XML file
-XML_DEPARTURES_URL = "http://example.com/stopdepartures.xml"
+XML_DEPARTURES_URL = "https://example.com/stopdepartures.xml"
 
 # The URL hosting the muni vehicle locations XML file
-XML_VEHICLES_URL = "http://example.com/stopdepartures.xml"
+XML_VEHICLES_URL = "https://example.com/stopdepartures.xml"
 
 
 # The url where the GTFS zip file is available:
-GTFS_URL = "http://example.com/transite.gtfs"
+GTFS_URL = "https://example.com/transite.gtfs"
 
 # Where to save the protobuffer file
 OUTPUT_FILE = "people_mover.pb"
